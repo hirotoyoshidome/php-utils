@@ -5,6 +5,8 @@
 * ライブラリ管理ツールのcomposerを利用してみる(インストール自体はDockerで実行済み)
 * ファイル操作
 * 関数とか、クラスとか
+* var_dumpとは？？←未実施
+* ラムダ式みたいに書ける??←未実施
 
 ## 実行環境
 https://github.com/hirotoyoshidome/docker_for_php_scratch
