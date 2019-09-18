@@ -29,4 +29,26 @@ if($judge_int <= 0){
 for($i = 0; $i < 5; $i++){
     echo ($i + 1)."\n";
 }
+
+// 配列
+$ary = ['aa', 'bb'];
+echo $ary[0]."\n";
+
+// 連想配列
+$ary2 = array(
+    'one' => 1,
+    'two' => 2
+);
+echo $ary2['two']."\n";
+
+// foreach
+foreach($ary2 as $key => $val){
+    echo $key." : ".$val."\n";
+}
+
+// 関数定義
+function addition($num1, $num2){
+    return $num1 + $num2;
+}
+echo addition(1, 4)."\n";
 ?>
