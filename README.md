@@ -1,6 +1,10 @@
 # php_utils
 
 * PHPでのソースを配置していく
+* 基本的な記法
+* ライブラリ管理ツールのcomposerを利用してみる(インストール自体はDockerで実行済み)
+* ファイル操作
+* 関数とか、クラスとか
 
 ## 実行環境
 https://github.com/hirotoyoshidome/docker_for_php_scratch
