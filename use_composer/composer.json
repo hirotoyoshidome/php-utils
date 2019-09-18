@@ -1,0 +1,7 @@
+{
+    "name": "my-lib",
+    "description": "my-lib",
+    "require": {
+        "nesbot/carbon": "*"
+    }
+}
